@@ -1,2 +1,1 @@
-# My-First-Repo
-To print hello world 
+print("Hellow Print")
